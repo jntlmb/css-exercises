@@ -10,6 +10,7 @@ As with the previous exercise, we've left a little more for you to do.
 - `flex-wrap` will help get the cards aligned correctly.
 -  Make sure you define how much space the cards should take up, in order for `flex-wrap` to work as intended.
 
+
 ## Desired outcome
 
 ![desired outcome](./desired-outcome.png)
